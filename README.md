@@ -32,9 +32,9 @@
   
   <div align="center">Tools & Frameworks</div>
   <div align="center"><br>
-    <img align="center" alt="Rafa-VsCode" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg">
+    <img align="center" alt="Rafa-VsCode" height="30" width="40" src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif">
     <img align="center" alt="Rafa-Insomnia" height="30" width="40" src="https://icon.icepanel.io/Technology/svg/Insomnia.svg">
-    <img align="center" alt="Rafa-Git" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/git-icon.svg">
+    <img align="center" alt="Rafa-Git" height="30" width="40" src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif">
     <img align="center" alt="Rafa-Vite.js" height="30" width="40" src="https://icon.icepanel.io/Technology/svg/Vite.js.svg">
 
   ##
