@@ -25,7 +25,7 @@
   
   <div align="center">Libraries</div>
   <div align="center"><br>
-    <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+    <img align="center" alt="Rafa-React" height="30" width="40" src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif">
   </div>
 
   ##
