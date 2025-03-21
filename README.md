@@ -36,7 +36,7 @@
     <img align="center" alt="Rafa-Insomnia" height="70" width="70" src="https://icon.icepanel.io/Technology/svg/Insomnia.svg">
     <img align="center" alt="Rafa-Git" height="70" width="130" src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif">
     <img align="center" alt="Rafa-Vite.js" height="70" width="70" src="https://icon.icepanel.io/Technology/svg/Vite.js.svg">
-
+  </div>
   ##
  
 <div style="display: flex; justify-content: center; gap: 10px;"> 
