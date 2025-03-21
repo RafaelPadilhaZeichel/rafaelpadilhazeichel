@@ -45,7 +45,7 @@
 
 ##
 
-[[https://spotify-github-profile.kittinanx.com/api/view.svg?uid=yqwltdar3z75o20x1uplkv4pc&redirect=true][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=yqwltdar3z75o20x1uplkv4pc&cover_image=true&theme=default&show_offline=true&background_color=000000&interchange=true&bar_color=53b14f&bar_color_cover=false)]]
+[![spotify-github-profile](https://spotify-github-profile.RafaelPadilhaZeichel.com/api/view?uid=yqwltdar3z75o20x1uplkv4pc&cover_image=true&theme=default&show_offline=true&background_color=000000&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=yqwltdar3z75o20x1uplkv4pc&redirect=true)
 
 ##
 
