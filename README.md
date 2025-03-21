@@ -45,15 +45,14 @@
 
 ##
 
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=yqwltdar3z75o20x1uplkv4pc&cover_image=true&theme=default&show_offline=false&background_color=000000&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=yqwltdar3z75o20x1uplkv4pc&redirect=true)
+
+##
+
 <div align="center">
 <br><p align="centre"><b>Visitantes</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{rafaelpadilhazeichel}/count.svg" /></p> 
 </div>
 
-###
-
-<img src="https://raw.githubusercontent.com/RafaelPadilhaZeichel/RafaelPadilhaZeichel/output/snake.svg" alt="Snake animation" />
-
-###
 
 
