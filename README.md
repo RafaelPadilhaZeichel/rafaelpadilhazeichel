@@ -6,9 +6,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RafaelPadilhaZeichel&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-
   ##
- <div align="center">Programming Languages</div>
+  
+<div align="center">Programming Languages</div>
 <div align="center"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
@@ -17,7 +17,9 @@
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
- ##
+
+  ##
+ 
 <div align="center">Tools & Frameworks</div>
   
   ##
@@ -38,8 +40,6 @@
 </div>
 
 ###
-
-<br clear="both">
 
 <img src="https://raw.githubusercontent.com/RafaelPadilhaZeichel/RafaelPadilhaZeichel/output/snake.svg" alt="Snake animation" />
 
