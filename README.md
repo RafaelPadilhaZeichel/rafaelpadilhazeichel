@@ -4,7 +4,7 @@
 <img align="center" alt="Rafa-animação" height="400" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif">
 </div>
 
-  ##
+ <img align="center" alt="Rafa-animação" height="40" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"> 
   
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=RafaelPadilhaZeichel&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
