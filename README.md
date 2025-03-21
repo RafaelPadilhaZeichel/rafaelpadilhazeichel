@@ -34,7 +34,7 @@
   
   <div align="center">Tools & Frameworks</div>
   
-  <div align="center""><br>
+  <div align="center"><br>
     <img align="center" alt="Rafa-VsCode" height="70" width="70" src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif">
     <img align="center" alt="Rafa-Insomnia" height="70" width="70" src="https://icon.icepanel.io/Technology/svg/Insomnia.svg">
     <img align="center" alt="Rafa-Git" height="70" width="130" src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif">
@@ -43,7 +43,7 @@
   
   ##
  
-<div style="display: flex; justify-content: center; gap: 10px;"> 
+<div align="center"> 
   <a href="https://www.instagram.com/padilhazeichelrafael/" target="_blank"><img height="70" width="70" src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" target="_blank"></a>
 
   <a href="https://discord.gg/gPChGwZr" target="_blank"><img height="70" width="70" src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" target="_blank"></a> 
