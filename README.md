@@ -10,32 +10,32 @@
   
 <div align="center">Programming Languages</div>
 <div align="center"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif">
+  <img align="center" alt="Rafa-Js" height="70" width="70" src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif">
   
-  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
+  <img align="center" alt="Rafa-Ts" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
   
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://private-user-images.githubusercontent.com/74038190/238200426-29fd6286-4e7b-4d6c-818f-c4765d5e39a9.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDI1ODU0OTYsIm5iZiI6MTc0MjU4NTE5NiwicGF0aCI6Ii83NDAzODE5MC8yMzgyMDA0MjYtMjlmZDYyODYtNGU3Yi00ZDZjLTgxOGYtYzQ3NjVkNWUzOWE5LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAzMjElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMzIxVDE5MjYzNlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWEyZWZhYTg4NzliZTgyMjU1NjdhZWYzZjQ1MTYzMzI5ODRhZmFlMWM2ZmZjN2JlNzhjYzNiYTQzYjNkODE4NWUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.GDU0VSBrVobEw32YW8oY28D8f_wLrJjlqwVwxMIwdEk">
+  <img align="center" alt="Rafa-HTML" height="70" width="70" src="https://private-user-images.githubusercontent.com/74038190/238200426-29fd6286-4e7b-4d6c-818f-c4765d5e39a9.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDI1ODU0OTYsIm5iZiI6MTc0MjU4NTE5NiwicGF0aCI6Ii83NDAzODE5MC8yMzgyMDA0MjYtMjlmZDYyODYtNGU3Yi00ZDZjLTgxOGYtYzQ3NjVkNWUzOWE5LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAzMjElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMzIxVDE5MjYzNlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWEyZWZhYTg4NzliZTgyMjU1NjdhZWYzZjQ1MTYzMzI5ODRhZmFlMWM2ZmZjN2JlNzhjYzNiYTQzYjNkODE4NWUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.GDU0VSBrVobEw32YW8oY28D8f_wLrJjlqwVwxMIwdEk">
   
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://private-user-images.githubusercontent.com/74038190/238200428-67f477ed-6624-42da-99f0-1a7b1a16eecb.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDI1ODU0OTYsIm5iZiI6MTc0MjU4NTE5NiwicGF0aCI6Ii83NDAzODE5MC8yMzgyMDA0MjgtNjdmNDc3ZWQtNjYyNC00MmRhLTk5ZjAtMWE3YjFhMTZlZWNiLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAzMjElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMzIxVDE5MjYzNlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTI5OGE3OWNiMTA0YTRkNjFlMDdiMmJkN2ViMDJjZDFkYjQ5ZDA0ZmEwNzFlNGEzODAzYmM4OTJlNTkyMmUxNjQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.gUCS0jTEe0D-FO2F42FqMmIAn0OaWnFM7Iy_BoN4Zrg">
+  <img align="center" alt="Rafa-CSS" height="70" width="70" src="https://private-user-images.githubusercontent.com/74038190/238200428-67f477ed-6624-42da-99f0-1a7b1a16eecb.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDI1ODU0OTYsIm5iZiI6MTc0MjU4NTE5NiwicGF0aCI6Ii83NDAzODE5MC8yMzgyMDA0MjgtNjdmNDc3ZWQtNjYyNC00MmRhLTk5ZjAtMWE3YjFhMTZlZWNiLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAzMjElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMzIxVDE5MjYzNlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTI5OGE3OWNiMTA0YTRkNjFlMDdiMmJkN2ViMDJjZDFkYjQ5ZDA0ZmEwNzFlNGEzODAzYmM4OTJlNTkyMmUxNjQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.gUCS0jTEe0D-FO2F42FqMmIAn0OaWnFM7Iy_BoN4Zrg">
   
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif">
+  <img align="center" alt="Rafa-Python" height="70" width="70" src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif">
 </div>
 
   ##
   
   <div align="center">Libraries</div>
   <div align="center"><br>
-    <img align="center" alt="Rafa-React" height="30" width="40" src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif">
+    <img align="center" alt="Rafa-React" height="70" width="70" src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif">
   </div>
 
   ##
   
   <div align="center">Tools & Frameworks</div>
   <div align="center"><br>
-    <img align="center" alt="Rafa-VsCode" height="30" width="40" src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif">
-    <img align="center" alt="Rafa-Insomnia" height="30" width="40" src="https://icon.icepanel.io/Technology/svg/Insomnia.svg">
-    <img align="center" alt="Rafa-Git" height="30" width="40" src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif">
-    <img align="center" alt="Rafa-Vite.js" height="30" width="40" src="https://icon.icepanel.io/Technology/svg/Vite.js.svg">
+    <img align="center" alt="Rafa-VsCode" height="70" width="70" src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif">
+    <img align="center" alt="Rafa-Insomnia" height="70" width="70" src="https://icon.icepanel.io/Technology/svg/Insomnia.svg">
+    <img align="center" alt="Rafa-Git" height="70" width="70" src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif">
+    <img align="center" alt="Rafa-Vite.js" height="70" width="70" src="https://icon.icepanel.io/Technology/svg/Vite.js.svg">
 
   ##
  
@@ -44,7 +44,7 @@
 
   <a href="https://discord.gg/gPChGwZr" target="_blank"><img height="70" width="70" src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" target="_blank"></a> 
   
-  <a href = "mailto:=rafael20242024@outlook.com"><img height="70" width="70" src="https://cdn.dribbble.com/userupload/23069452/file/original-00c38dc458efad1364e353316f6f9f0b.gif" target="_blank"></a>
+  <a href = "mailto:=rafael20242024@outlook.com"><img height="70" width="70" src="https://png.pngtree.com/png-clipart/20240527/original/pngtree-blue-mail-icon-transparent-background-simple-web-and-mobile-vector-illustration-png-image_15183095.png" target="_blank"></a>
   
   <a href="https://www.linkedin.com/in/rafael-padilha-1594001a2/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
