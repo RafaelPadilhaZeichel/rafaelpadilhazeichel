@@ -39,10 +39,11 @@
 
   ##
  
-<div align=""> 
-  
-  <img align="center" alt="Rafa-Instagram" height="30" width="40" src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif">
+<div align="center"> 
+  <div align="center"> 
+  <img align="center" alt="Rafa-Instagram" height="50" width="50" src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif">
   <a href="https://www.instagram.com/padilhazeichelrafael/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  </div>
   
   <a href="https://discord.gg/gPChGwZr" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   
