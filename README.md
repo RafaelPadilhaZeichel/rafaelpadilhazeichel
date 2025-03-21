@@ -42,9 +42,9 @@
 <div align="center"> 
   <a href="https://www.instagram.com/padilhazeichelrafael/" target="_blank"><img height="70" width="70" src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" target="_blank"></a>
 
-  <a href="https://discord.gg/gPChGwZr" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href="https://discord.gg/gPChGwZr" target="_blank"><img height="70" width="70" src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" target="_blank"></a> 
   
-  <a href = "mailto:=rafael20242024@outlook.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:=rafael20242024@outlook.com"><img height="70" width="70" src="https://cdn.dribbble.com/userupload/23069452/file/original-00c38dc458efad1364e353316f6f9f0b.gif" target="_blank"></a>
   
   <a href="https://www.linkedin.com/in/rafael-padilha-1594001a2/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
