@@ -71,8 +71,9 @@
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{rafaelpadilhazeichel}/count.svg" /></p> 
 </div>
 
-<img align="center" alt="Rafa-animação" height="80" width="100%" src="https://user-images.githubusercontent.com/74038190/212747107-5b654ba5-31c6-4366-b42b-51b822e9bc52.gif"> 
-
+<div align="center">
+<img align="center" alt="Rafa-animação" height="200" src="https://user-images.githubusercontent.com/74038190/213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5.gif"> 
+</div>
 
 
 
