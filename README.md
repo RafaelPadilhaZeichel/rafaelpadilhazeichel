@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=57BDDA&size=25&center=true&vStart=true&width=1000&lines=Hello,+welcome+to+my+repository,+I'm+Rafael;I'm+a+programming+student!+👋+:%29)
+ ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=57BDDA&size=25&center=true&vStart=true&width=1000&lines=Hello,+welcome+to+my+repository,+I'm+Rafael;I'm+a+programming+student!+👋+:%29)
 
 <div align="center">
 <img align="center" alt="Rafa-animação" height="400" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif">
@@ -69,10 +69,6 @@
 <div align="center">
 <br><p align="centre"><b>Visitantes</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{rafaelpadilhazeichel}/count.svg" /></p> 
-</div>
-
-<div align="center">
-<img align="center" alt="Rafa-animação" height="200" src="https://user-images.githubusercontent.com/74038190/213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5.gif"> 
 </div>
 
 
