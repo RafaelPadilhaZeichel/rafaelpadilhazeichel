@@ -39,7 +39,7 @@
 
   ##
  
-<div align="center" style="display: flex"> 
+<div align="center" display: flex> 
   <a href="https://www.instagram.com/padilhazeichelrafael/" target="_blank"><img height="70" width="70" src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" target="_blank"></a>
 
   <a href="https://discord.gg/gPChGwZr" target="_blank"><img height="70" width="70" src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" target="_blank"></a> 
