@@ -36,10 +36,12 @@
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{rafaelpadilhazeichel}/count.svg" /></p> 
 </div>
 
-##
-<!--
-<div align="center"> 
-  
- ![snake gif](https://github.com/rafaelpadilhazeichel/rafaelpadilhazeichel/blob/output/github-contribution-grid-snake.gif)
-</div>
--->
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/rafaelpadilhazeichel/rafaelpadilhazeichel/output/snake.svg" alt="Snake animation" />
+
+###
+
+
