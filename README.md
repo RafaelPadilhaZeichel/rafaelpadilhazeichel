@@ -11,7 +11,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RafaelPadilhaZeichel&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-  ##
+ <img align="center" alt="Rafa-animação" height="40" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"> 
   
 <div align="center">Programming Languages</div>
 
@@ -27,7 +27,7 @@
   <img align="center" alt="Rafa-Python" height="70" width="70" src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif">
 </div>
 
-  ##
+ <img align="center" alt="Rafa-animação" height="40" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"> 
   
   <div align="center">Libraries</div>
   
@@ -35,7 +35,7 @@
     <img align="center" alt="Rafa-React" height="70" width="70" src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif">
   </div>
 
-  ##
+ <img align="center" alt="Rafa-animação" height="40" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"> 
   
   <div align="center">Tools & Frameworks</div>
   
@@ -46,7 +46,7 @@
     <img align="center" alt="Rafa-Vite.js" height="70" width="70" src="https://icon.icepanel.io/Technology/svg/Vite.js.svg">
   </div>
   
-  ##
+ <img align="center" alt="Rafa-animação" height="40" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"> 
  
 <div align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;"> 
   <a href="https://www.instagram.com/padilhazeichelrafael/" target="_blank"><img height="70" width="70" src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" target="_blank"></a>
@@ -60,11 +60,11 @@
   <a href="https://wa.me/5527995893556" target="_blank"><img height="70" width="70" src="https://user-images.githubusercontent.com/74038190/235294019-40007353-6219-4ec5-b661-b3c35136dd0b.gif" target="_blank"></a>
 </div>
 
-##
+<img align="center" alt="Rafa-animação" height="40" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"> 
 
 
 
-##
+<img align="center" alt="Rafa-animação" height="40" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"> 
 
 <div align="center">
 <br><p align="centre"><b>Visitantes</b></p>  
