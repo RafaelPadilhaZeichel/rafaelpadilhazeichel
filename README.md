@@ -30,7 +30,7 @@
   <div align="center"><br>
     <img align="center" alt="Rafa-VsCode" height="30" width="40" src="">
     <img align="center" alt="Rafa-Insomnia" height="30" width="40" src="">
-    <img align="center" alt="Rafa-Git" height="30" width="40" src="![image](https://github.com/user-attachments/assets/4ed96479-0b10-4e41-8d6b-40d4076b4952)">
+    <img align="center" alt="Rafa-Git" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/git-icon.svg">
   </div>
 
   ##
