@@ -9,6 +9,7 @@
   ##
   
 <div align="center">Programming Languages</div>
+
 <div align="center"><br>
   <img align="center" alt="Rafa-Js" height="70" width="70" src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif">
   
@@ -24,6 +25,7 @@
   ##
   
   <div align="center">Libraries</div>
+  
   <div align="center"><br>
     <img align="center" alt="Rafa-React" height="70" width="70" src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif">
   </div>
@@ -31,12 +33,14 @@
   ##
   
   <div align="center">Tools & Frameworks</div>
-  <div style="display: flex; justify-content: center; gap: 10px;"><br>
+  
+  <div align="center""><br>
     <img align="center" alt="Rafa-VsCode" height="70" width="70" src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif">
     <img align="center" alt="Rafa-Insomnia" height="70" width="70" src="https://icon.icepanel.io/Technology/svg/Insomnia.svg">
     <img align="center" alt="Rafa-Git" height="70" width="130" src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif">
     <img align="center" alt="Rafa-Vite.js" height="70" width="70" src="https://icon.icepanel.io/Technology/svg/Vite.js.svg">
   </div>
+  
   ##
  
 <div style="display: flex; justify-content: center; gap: 10px;"> 
