@@ -1,6 +1,9 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=57BDDA&size=25&center=true&vStart=true&width=1000&lines=Hello,+welcome+to+my+repository,+I'm+Rafael;I'm+a+programming+student!+👋+:%29)
 
+<img align="center" alt="Rafa-animação" height="400" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif">
 
+  ##
+  
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=RafaelPadilhaZeichel&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RafaelPadilhaZeichel&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
