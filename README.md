@@ -39,12 +39,12 @@
 
   ##
  
-<div style="display: flex; gap: 10px; align-items: center;"> 
+<div style="display: flex; justify-content: center; gap: 10px;"> 
   <a href="https://www.instagram.com/padilhazeichelrafael/" target="_blank"><img height="70" width="70" src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" target="_blank"></a>
 
   <a href="https://discord.gg/gPChGwZr" target="_blank"><img height="70" width="70" src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" target="_blank"></a> 
   
-  <a href = "mailto:=rafael20242024@outlook.com"><img height="70" width="70" src="https://cdn.dribbble.com/userupload/29428189/file/original-ddf67c328e5f24751d54062a4a391314.gif" target="_blank"></a>
+  <a href = "mailto:=rafael20242024@outlook.com"><img height="70" width="70" src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" target="_blank"></a>
   
   <a href="https://www.linkedin.com/in/rafael-padilha-1594001a2/" target="_blank"><img height="70" width="70" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" target="_blank"></a> 
   
@@ -53,7 +53,7 @@
 
 ##
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=yqwltdar3z75o20x1uplkv4pc&cover_image=true&theme=default&show_offline=false&background_color=000000&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=yqwltdar3z75o20x1uplkv4pc&redirect=true)
+
 
 ##
 
