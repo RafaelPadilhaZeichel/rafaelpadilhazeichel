@@ -16,18 +16,18 @@
 <div align="center">Programming Languages</div>
 
 <div align="center" style="gap: 30px;"><br>
-  <img align="center" alt="Rafa-Js" height="70" width="70" src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif">
+  <img align="center" alt="Rafa-Js" height="50" width="50" src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif">
   
-  <img align="center" alt="Rafa-Ts" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
+  <img align="center" alt="Rafa-Ts" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
   
-  <img align="center" alt="Rafa-HTML" height="70" width="70" src="https://private-user-images.githubusercontent.com/74038190/238200426-29fd6286-4e7b-4d6c-818f-c4765d5e39a9.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDI1ODU0OTYsIm5iZiI6MTc0MjU4NTE5NiwicGF0aCI6Ii83NDAzODE5MC8yMzgyMDA0MjYtMjlmZDYyODYtNGU3Yi00ZDZjLTgxOGYtYzQ3NjVkNWUzOWE5LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAzMjElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMzIxVDE5MjYzNlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWEyZWZhYTg4NzliZTgyMjU1NjdhZWYzZjQ1MTYzMzI5ODRhZmFlMWM2ZmZjN2JlNzhjYzNiYTQzYjNkODE4NWUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.GDU0VSBrVobEw32YW8oY28D8f_wLrJjlqwVwxMIwdEk">
+  <img align="center" alt="Rafa-HTML" height="50" width="50" src="https://private-user-images.githubusercontent.com/74038190/238200426-29fd6286-4e7b-4d6c-818f-c4765d5e39a9.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDI1ODU0OTYsIm5iZiI6MTc0MjU4NTE5NiwicGF0aCI6Ii83NDAzODE5MC8yMzgyMDA0MjYtMjlmZDYyODYtNGU3Yi00ZDZjLTgxOGYtYzQ3NjVkNWUzOWE5LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAzMjElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMzIxVDE5MjYzNlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWEyZWZhYTg4NzliZTgyMjU1NjdhZWYzZjQ1MTYzMzI5ODRhZmFlMWM2ZmZjN2JlNzhjYzNiYTQzYjNkODE4NWUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.GDU0VSBrVobEw32YW8oY28D8f_wLrJjlqwVwxMIwdEk">
   
-  <img align="center" alt="Rafa-CSS" height="70" width="70" src="https://private-user-images.githubusercontent.com/74038190/238200428-67f477ed-6624-42da-99f0-1a7b1a16eecb.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDI1ODU0OTYsIm5iZiI6MTc0MjU4NTE5NiwicGF0aCI6Ii83NDAzODE5MC8yMzgyMDA0MjgtNjdmNDc3ZWQtNjYyNC00MmRhLTk5ZjAtMWE3YjFhMTZlZWNiLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAzMjElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMzIxVDE5MjYzNlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTI5OGE3OWNiMTA0YTRkNjFlMDdiMmJkN2ViMDJjZDFkYjQ5ZDA0ZmEwNzFlNGEzODAzYmM4OTJlNTkyMmUxNjQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.gUCS0jTEe0D-FO2F42FqMmIAn0OaWnFM7Iy_BoN4Zrg">
+  <img align="center" alt="Rafa-CSS" height="50" width="50" src="https://private-user-images.githubusercontent.com/74038190/238200428-67f477ed-6624-42da-99f0-1a7b1a16eecb.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDI1ODU0OTYsIm5iZiI6MTc0MjU4NTE5NiwicGF0aCI6Ii83NDAzODE5MC8yMzgyMDA0MjgtNjdmNDc3ZWQtNjYyNC00MmRhLTk5ZjAtMWE3YjFhMTZlZWNiLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAzMjElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMzIxVDE5MjYzNlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTI5OGE3OWNiMTA0YTRkNjFlMDdiMmJkN2ViMDJjZDFkYjQ5ZDA0ZmEwNzFlNGEzODAzYmM4OTJlNTkyMmUxNjQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.gUCS0jTEe0D-FO2F42FqMmIAn0OaWnFM7Iy_BoN4Zrg">
   
-  <img align="center" alt="Rafa-Python" height="70" width="70" src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif">
+  <img align="center" alt="Rafa-Python" height="50" width="50" src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif">
 </div>
 
- <img align="center" alt="Rafa-animação" height="40" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"> 
+ <img align="center" alt="Rafa-animação" height="50" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"> 
   
   <div align="center">Libraries</div>
   
@@ -51,16 +51,16 @@
 <div align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;"> 
   <a href="https://www.instagram.com/padilhazeichelrafael/" target="_blank"><img height="70" width="70" src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" target="_blank"></a>
 
-  <a href="https://discord.gg/gPChGwZr" target="_blank"><img height="70" width="70" src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" target="_blank"></a> 
+  <a href="https://discord.gg/gPChGwZr" target="_blank"><img height="50" width="50" src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" target="_blank"></a> 
   
-  <a href = "mailto:=rafael20242024@outlook.com"><img height="70" width="70" src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" target="_blank"></a>
+  <a href = "mailto:=rafael20242024@outlook.com"><img height="50" width="50" src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" target="_blank"></a>
   
-  <a href="https://www.linkedin.com/in/rafael-padilha-1594001a2/" target="_blank"><img height="70" width="70" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/rafael-padilha-1594001a2/" target="_blank"><img height="50" width="50" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" target="_blank"></a> 
   
-  <a href="https://wa.me/5527995893556" target="_blank"><img height="70" width="70" src="https://user-images.githubusercontent.com/74038190/235294019-40007353-6219-4ec5-b661-b3c35136dd0b.gif" target="_blank"></a>
+  <a href="https://wa.me/5527995893556" target="_blank"><img height="50" width="50" src="https://user-images.githubusercontent.com/74038190/235294019-40007353-6219-4ec5-b661-b3c35136dd0b.gif" target="_blank"></a>
 </div>
 
-<img align="center" alt="Rafa-animação" height="40" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"> 
+<img align="center" alt="Rafa-animação" height="50" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"> 
 
 
 
