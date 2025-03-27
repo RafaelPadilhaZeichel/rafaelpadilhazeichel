@@ -64,12 +64,14 @@
 
 
 
-<img align="center" alt="Rafa-animação" height="40" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"> 
 
 <div align="center">
 <br><p align="centre"><b>Visitantes</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{rafaelpadilhazeichel}/count.svg" /></p> 
 </div>
+
+
+<img align="center" alt="Rafa-animação" height="40" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"> 
 
 
 
